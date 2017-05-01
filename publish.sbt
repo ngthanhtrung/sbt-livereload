@@ -1,0 +1,2 @@
+bintrayRepository := "public"
+publishMavenStyle := false
